@@ -11,10 +11,11 @@
 
 </head>
 <body>
+<form action="" method="POST">
 <div class="main-login">
     <div class="login">
         <div class="card-login">
-
+        
             <div class="form-floating mb-3">
             <input type="email" class="form-control " id="floatingInput" >
             <label for="floatingInput" >Email</label>
@@ -39,13 +40,14 @@
 
             <button class="btn-login">Login</button>
             <div class="autor"><h1>Desenvolvido por <a href="http://www.dinholima.com">Dinho Lima</a></h1>
-                <h2>Entre em contato: <a href="https://api.whatsapp.com/send?phone=5524992380747" target="_blank">Whatsapp</a></h2>
-            
-            
+            <h2>Entre em contato: <a href="https://api.whatsapp.com/send?phone=5524992380747" target="_blank">Whatsapp</a></h2>         
             </div>
+
+        
         </div>
     
 
 </div>
+</form>
 </body>
 </html>
