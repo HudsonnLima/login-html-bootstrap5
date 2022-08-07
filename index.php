@@ -1,9 +1,3 @@
-<?php
-ob_start();
-session_start();
-require('app/Config.php');
-?>
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
